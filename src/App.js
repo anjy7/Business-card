@@ -1,7 +1,7 @@
 import React from "react"
-import Top from "../src/Top"
-import Content from "../src/Content"
-import Footer from "../src/Footer"
+import Top from "./Top"
+import Content from "./Content"
+import Footer from "./Footer"
 
 export default function App(){
     return (

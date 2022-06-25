@@ -7,7 +7,7 @@ export default function Content() {
           <div className="part1">
             <h1 className="name">Anjy Gupta</h1>
             <h3 className="role">Frontend Developer</h3>
-            <a className="web-link" href="#">AnjyG.dev</a>
+            <a className="web-link" >AnjyG.dev</a>
              <div className="btns">
                 <button className="email">Email</button>
                 <button className="linkedin">Linkedin</button>

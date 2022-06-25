@@ -3,14 +3,14 @@ import React from "react"
 
 export default function Content() {
     return (
-        <div>
+        <div className="content">
           <div className="part1">
             <h1 className="name">Anjy Gupta</h1>
             <h3 className="role">Frontend Developer</h3>
-            <a className="web-link" >AnjyG.dev</a>
+            <a href="#" className="web-link" >AnjyG.dev</a>
              <div className="btns">
-                <button className="email">Email</button>
-                <button className="linkedin">Linkedin</button>
+                <button  type="button" className="email">Email</button>
+                <button  type="button" className="linkedin">Linkedin</button>
              </div>
           </div>
           <div className="part2">
